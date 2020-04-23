@@ -1,0 +1,1 @@
+body[data-agent="firefox"] #inner > article.--pinned .excerpt p:first-child::first-letter, body[data-agent="firefox"] #inner > article .entry-content .entry-excerpt p:first-child::first-letter, body[data-agent="firefox"] #inner > article .entry-content.--dropcap > p:first-of-type::first-letter {margin-top: 6px;font-size: 3.5rem;}
